@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts_5/20230421_010.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/fts_5/20231011_005.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -54,27 +54,36 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>>リアル同窓会_3</p>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>>><a href="https://torokoid.github.io/fts_5">リアル同窓会_3>リアル同窓会_4</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023年10月11日(水)リアル安否確認会の記録＠男前料理と五島列島直送の魚　神楽坂はずれ　無花果 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
-<a href="20230421_001.jpg" data-lightbox="abc"><img src="20230421_001.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_002.jpg" data-lightbox="abc"><img src="20230421_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_003.jpg" data-lightbox="abc"><img src="20230421_003.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_004.jpg" data-lightbox="abc"><img src="20230421_004.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_005.jpg" data-lightbox="abc"><img src="20230421_005.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_006.jpg" data-lightbox="abc"><img src="20230421_006.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_007.jpg" data-lightbox="abc"><img src="20230421_007.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_008.jpg" data-lightbox="abc"><img src="20230421_008.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_009.jpg" data-lightbox="abc"><img src="20230421_009.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_010.jpg" data-lightbox="abc"><img src="20230421_010.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_011.jpg" data-lightbox="abc"><img src="20230421_011.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_012.jpg" data-lightbox="abc"><img src="20230421_012.jpg" alt="サンプル画像" width="900" /></a>
-<p>ここまでの12枚は里村さん撮影</p>
-<a href="20230421_013.jpg" data-lightbox="abc"><img src="20230421_013.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230421_014.jpg" data-lightbox="abc"><img src="20230421_014.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20231011_001.JPG" data-lightbox="abc"><img src="20231011_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_002.JPG" data-lightbox="abc"><img src="20231011_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_003.JPG" data-lightbox="abc"><img src="20231011_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_004.JPG" data-lightbox="abc"><img src="20231011_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_005.JPG" data-lightbox="abc"><img src="20231011_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_006.JPG" data-lightbox="abc"><img src="20231011_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_007.JPG" data-lightbox="abc"><img src="20231011_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_008.JPG" data-lightbox="abc"><img src="20231011_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_009.JPG" data-lightbox="abc"><img src="20231011_009.JPG" alt="サンプル画像" width="900" /></a>
+<p>ここまでの9枚は杉本さん撮影</p>
+<a href="20231011_010.JPG" data-lightbox="abc"><img src="20231011_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_011.JPG" data-lightbox="abc"><img src="20231011_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_012.JPG" data-lightbox="abc"><img src="20231011_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_013.JPG" data-lightbox="abc"><img src="20231011_013.JPG" alt="サンプル画像" width="900" /></a>
+<p>ここまでの4枚は加藤さん撮影</p>
+<a href="20231011_014.JPG" data-lightbox="abc"><img src="20231011_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_015.JPG" data-lightbox="abc"><img src="20231011_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_016.JPG" data-lightbox="abc"><img src="20231011_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_017.JPG" data-lightbox="abc"><img src="20231011_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_018.JPG" data-lightbox="abc"><img src="20231011_018.JPG" alt="サンプル画像" width="900" /></a>
+<p>ここまでの5枚は櫛田さん撮影</p>
+<a href="20231011_019.JPG" data-lightbox="abc"><img src="20231011_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231011_020.JPG" data-lightbox="abc"><img src="20231011_020.JPG" alt="サンプル画像" width="900" /></a>
 <p>ここまでの2枚は矢口さん撮影</p>
+
 
 
 <br><br><br><br>
